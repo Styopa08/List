@@ -1,2 +1,2 @@
-int x = 11;
+int y = 11;
 console.log(x)
